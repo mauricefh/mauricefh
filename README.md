@@ -23,6 +23,7 @@ I'm a results-driven Full Stack Developer with **3+ years of experience** buildi
 <table>
 <tr>
 <td width="50%">
+  
 **🎨 Frontend Excellence**
 - React.js, Next.js
 - TypeScript, JavaScript
@@ -37,6 +38,7 @@ I'm a results-driven Full Stack Developer with **3+ years of experience** buildi
 
 </td>
 <td width="50%">
+  
 **🗄️ Data & Infrastructure**
 - PostgreSQL, MongoDB, Redis
 - Docker containerization
