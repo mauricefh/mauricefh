@@ -4,13 +4,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over th
 I'm currently seeking new opportunities where I can apply my skills in full-stack development to create innovative and impactful software solutions.
 
 Contact & Links
-Email: jobs@mauricefh.com
+jobs@mauricefh.com
+[Portfolio](mauricefh.com)
+[LinkedIn](linkedin.com/in/mauricefh)
 
-Website: mauricefh.com
-
-LinkedIn: linkedin.com/in/mauricefh
-
-Portfolio: mauricefh.com
 
 Technical Skills
 Languages: JavaScript, TypeScript, Python, Rust, SQL, Bash
