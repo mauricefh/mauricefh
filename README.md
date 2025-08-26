@@ -4,7 +4,7 @@
 
 > *"Transforming complex business challenges into elegant, scalable solutions"*
 
-I'm a results-driven Full Stack Developer with **3+ years of experience** building high-impact web applications that drive real business outcomes. From reducing customer churn by 18% to preventing 90% of security breaches, I deliver measurable results through clean code and modern architecture.
+I'm a results-driven Full Stack Developer with **3+ years of experience** building high-impact web applications that drive real business outcomes. I deliver measurable results through clean code and modern architecture.
 
 **🎯 Currently seeking new opportunities** to leverage my full-stack expertise in creating next-generation software solutions.
 
