@@ -3,10 +3,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over th
 
 I'm currently seeking new opportunities where I can apply my skills in full-stack development to create innovative and impactful software solutions.
 
-Contact & Links
-jobs@mauricefh.com
-[Portfolio](mauricefh.com)
-[LinkedIn](linkedin.com/in/mauricefh)
+Contact & Links: jobs@mauricefh.com | [Portfolio](mauricefh.com) | [LinkedIn](linkedin.com/in/mauricefh)
 
 
 Technical Skills
