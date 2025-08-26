@@ -62,8 +62,7 @@ I'm a results-driven Full Stack Developer with **3+ years of experience** buildi
 ### 🎯 **Founder & Full Stack Developer** | *MFH Solutions*
 **March 2024 - Present**
 
-- 📊 **Built a SaaS analytics platform** with real-time data visualizations
-- 📈 **Reduced customer churn by 18%** through data-driven insights
+- 📊 **Built a SaaS budgeting platform** with real-time data finance overview
 - ⚡ **Improved site performance by 22%** via modern frontend refactoring with Tailwind CSS
 - 🏗️ **Architected component-driven systems** for maximum scalability and maintainability
 
