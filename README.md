@@ -23,29 +23,6 @@ Database: PostgreSQL, MongoDB, Redis
 
 DevOps: Docker, Git, GitHub Actions, Linux, AWS, RabbitMQ
 
-Featured Projects
-Here are some of my highlighted projects that demonstrate my full-stack capabilities and problem-solving skills.
-
-Affirmatik
-A modern web application designed to provide users with daily affirmations and motivational content. This project showcases my ability to build engaging user interfaces with React and Tailwind CSS, implement secure user authentication, and manage data with a robust backend.
-
-Key Technologies: React, Next.js, TypeScript, PostgreSQL, Prisma ORM
-
-Inthima
-A real-time communication platform focused on secure and private messaging. This project highlights my experience in developing features that require real-time updates and my deep understanding of backend architecture, ensuring both speed and security.
-
-Key Technologies: React, Node.js, Express.js, WebSockets, PostgreSQL
-
-Klosii
-A personal inventory management system designed for organizing items and simplifying data tracking. This project demonstrates my proficiency in building intuitive user experiences and my expertise in designing database schemas to handle complex data relationships efficiently.
-
-Key Technologies: Next.js, React, Node.js, RESTful APIs
-
-Freenance
-A personal finance dashboard that allows users to track expenses and visualize financial data. The application features interactive charts and secure data handling, proving my skill in data visualization and developing scalable, secure backend services.
-
-Key Technologies: React, Node.js, Chart.js, JWT, PostgreSQL
-
 Professional Experience
 Founder & Full Stack Developer, MFH Solutions
 March 2024 - Present
