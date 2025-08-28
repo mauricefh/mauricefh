@@ -57,33 +57,6 @@ I'm a results-driven Full Stack Developer with **3+ years of experience** buildi
 
 ---
 
-## 🏆 Professional Achievements
-
-### 🎯 **Founder & Full Stack Developer** | *MFH Solutions*
-**March 2024 - Present**
-
-- 📊 **Built a SaaS budgeting platform** with real-time data finance overview
-- ⚡ **Improved site performance by 22%** via modern frontend refactoring with Tailwind CSS
-- 🏗️ **Architected component-driven systems** for maximum scalability and maintainability
-
-### 💼 **Software Engineer** | *3wDesign*
-**April 2023 - March 2024**
-
-- 🚀 **Led complete technology modernization** from jQuery to React.js/Node.js stack
-- ⏱️ **Accelerated feature delivery by 40%** through improved development workflows
-- ☁️ **Migrated backend services to AWS**, dramatically improving scalability and reliability
-- 👥 **Collaborated with cross-functional teams** to deliver high-quality solutions
-
-### 🛡️ **Backend Developer Intern** | *House of Commons*
-**November 2022 - March 2023**
-
-- 🔒 **Prevented 90% of unauthorized access attempts** by implementing robust role-based APIs
-- 🏛️ **Enhanced government system security** using .NET Core best practices
-- 🚀 **Doubled deployment speed** through CI/CD pipeline implementation
-- 🐳 **Containerized applications** with Docker for consistent deployments
-
----
-
 ## 🌟 What Makes Me Different
 
 - **📈 Business Impact Focus:** I don't just write code—I deliver measurable business results
