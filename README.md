@@ -27,28 +27,24 @@ I'm a results-driven Full Stack Developer with **3+ years of experience** buildi
 **🎨 Frontend Excellence**
 - React.js, Next.js
 - TypeScript, JavaScript
-- Tailwind CSS
-- Component-driven architecture
+- Tailwind
 
 **⚙️ Backend Mastery**
 - Node.js, Express.js
-- Python, Rust
+- C#, ASP.Net Core
 - REST & GraphQL APIs
-- Prisma ORM
 
 </td>
 <td width="50%">
   
 **🗄️ Data & Infrastructure**
-- PostgreSQL, MongoDB, Redis
-- Docker containerization
+- PostgreSQL, MongoDB, PrismaORM
 - AWS cloud services
-- Linux system administration
+- Linux daily user and server
 
 **🔧 DevOps & Tools**
 - CI/CD with GitHub Actions
 - Git version control
-- RabbitMQ messaging
 - Bash scripting
   
 </td>
