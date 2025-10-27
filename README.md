@@ -1,5 +1,5 @@
 Hey there! 👋  
-I’m Maurice, a software engineer based in Edmonton, AB, Canada.
+I’m Maurice, a full stack developer based in Edmonton, AB, Canada.
 
 I work mostly with React, TypeScript, Tailwind CSS, Framer Motion, and Node.js.  
 I’m a big fan of Helix and Obsidian for keeping my workflow smooth and creative.
