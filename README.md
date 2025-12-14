@@ -9,8 +9,8 @@ I’m a big fan of Helix and Obsidian for keeping my workflow smooth and creativ
 - I love dogs seriously, if there’s one nearby, I’m probably already smiling.
 
 🎨 Hobbies
-- Spending time with my lovely waifu
-- Watching anime
 - Coding for fun and side projects
+- Spending time with my lovely partner
+- Watching anime
 - Exploring fashion
 - Perfecting my homemade pizza recipes 🍕
