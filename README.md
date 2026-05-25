@@ -12,3 +12,5 @@ I work mostly with React, TypeScript and Node.js. I currently use arch linux as 
 - Watching anime and shows
 - Exploring fashion and style
 - Perfecting my homemade pizza recipes 🍕
+
+If you reach the end and wanna konw more visite my [portfolio](https://www.mauricefh.com)
